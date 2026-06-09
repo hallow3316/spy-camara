@@ -33,8 +33,7 @@ I am open to partnerships and collaborations! Feel free to reach out via:
 - JavaScript
 
 ## Contributing
-## CONTACT
-Open for secure collaboration and development inquiries.
+
 
 
 ## License
