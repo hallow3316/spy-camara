@@ -1,9 +1,12 @@
 [![Discord](https://img.shields.io/badge/Discord-Chat-7289da?logo=discord)](https://discord.com/users/1450134275122003990)
-
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=netlify)](https://camaraxuniversal.netlify.app/)
 
 # Spy-camara
 
 A modern video-call style UI for advanced camera monitoring. Built using HTML, CSS, and JavaScript.
+
+## Preview
+![Spy-Camera UI Preview](https://i.imgur.com/your-image-id-here.png)
 
 ## Features
 - Clean, responsive user interface.
@@ -17,7 +20,7 @@ To connect this project to your Discord server:
 
 1. Create a Webhook in your Discord channel settings.
 2. Open your project folder in your code editor.
-3. Locate the `put_your_webhook_here` placeholder in your  file.
+3. Locate the `put_your_webhook_here` placeholder in your file.
 4. Replace it with your actual **Discord Webhook URL**.
 
 > **⚠️ SECURITY WARNING:** Never share your Webhook URL publicly! If you plan to upload this project to a public GitHub repository, make sure to remove your specific URL from the code before pushing your changes.
