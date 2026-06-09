@@ -5,10 +5,19 @@ A modern video-call style UI for advanced camera monitoring. Built using HTML, C
 ## Features
 - Clean, responsive user interface.
 - Optimized for mobile, tablet, and desktop devices.
-- [Add any other features you have here]
 
 ## Getting Started
 To view this project, simply open the `index.html` file in your preferred web browser.
+
+## Configuration
+To connect this project to your Discord server:
+
+1. Create a Webhook in your Discord channel settings.
+2. Open your project folder in your code editor.
+3. Locate the `put_your_webhook_here` placeholder in your JavaScript file.
+4. Replace it with your actual **Discord Webhook URL**.
+
+> **⚠️ SECURITY WARNING:** Never share your Webhook URL publicly! If you plan to upload this project to a public GitHub repository, make sure to remove your specific URL from the code before pushing your changes.
 
 ## Built With
 - HTML5
