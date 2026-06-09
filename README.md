@@ -6,7 +6,7 @@
 A modern video-call style UI for advanced camera monitoring. Built using HTML, CSS, and JavaScript.
 
 ## Preview
-![Spy-Camera UI Preview]([https://camaraxuniversal.netlify.app/](https://camaraxuniversal.netlify.app/))
+[Spy-Camera UI Preview]([https://camaraxuniversal.netlify.app/](https://camaraxuniversal.netlify.app/))
 
 ## Features
 - Clean, responsive user interface.
