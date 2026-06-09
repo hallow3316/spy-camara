@@ -36,7 +36,6 @@ I am open to partnerships and collaborations! Feel free to reach out via:
 ## CONTACT
 Open for secure collaboration and development inquiries.
 
-* **Secure Channel:** [Click here to initiate contact via Discord](https://discord.com/users/1450134275122003990)
 
 ## License
 This project is open-source and available under the **MIT License**
