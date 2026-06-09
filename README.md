@@ -1,4 +1,4 @@
-![Last Commit](https://img.shields.io/github/last-commit/hallow3316/spy-cam)
+[![Discord](https://img.shields.io/badge/Discord-Chat-7289da?logo=discord)](https://discord.com/users/1450134275122003990)
 
 
 # Spy-camara
