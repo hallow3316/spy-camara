@@ -25,7 +25,8 @@ To connect this project to your Discord server:
 ## 🤝 Partnerships & Contact
 I am open to partnerships and collaborations! Feel free to reach out via:
 
-* **Direct Message:** [Click here to message me on Discord](https://discord.com/users/1450134275122003990)
+* **Discord:** [Click here to message me on Discord](https://discord.com/users/1450134275122003990)
+* **Instagram:** [Click here to message me on instagram]([https://discord.com/users/1450134275122003990](https://www.instagram.com/aint_hallow/))
 
 ## Built With
 - HTML5
