@@ -32,9 +32,5 @@ I am open to partnerships and collaborations! Feel free to reach out via:
 - CSS3
 - JavaScript
 
-## Contributing
-
-
-
 ## License
 This project is open-source and available under the **MIT License**
