@@ -36,4 +36,4 @@ I am open to partnerships and collaborations! Feel free to reach out via:
 Since this is a personal project, I am not currently accepting contributions, but feel free to fork the repository to experiment with your own version!
 
 ## License
-This project is open source and available for personal use.
+This project is open-source and available under the **MIT License**
