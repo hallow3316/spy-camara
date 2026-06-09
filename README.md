@@ -1,5 +1,3 @@
-![License](https://img.shields.io/github/license/hallow3316/spy-cam)
-![Repo Size](https://img.shields.io/github/repo-size/hallow3316/spy-cam)
 ![Last Commit](https://img.shields.io/github/last-commit/hallow3316/spy-cam)
 
 
