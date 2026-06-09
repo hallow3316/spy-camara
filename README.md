@@ -1,4 +1,4 @@
-[[![Discord](https://img.shields.io/badge/Discord-Chat-7289da?logo=discord)](https://discord.com/users/1450134275122003990)
+[![Discord](https://img.shields.io/badge/Discord-Chat-7289da?logo=discord)](https://discord.com/users/1450134275122003990)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=netlify)](https://camaraxuniversal.netlify.app/)
 
 # Spy-camara
