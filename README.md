@@ -1,3 +1,8 @@
+![GitHub](https://img.shields.io/github/license/hallow3316/spy-cam)
+![GitHub repo size](https://img.shields.io/github/repo-size/hallow3316/spy-cam)
+![GitHub last commit](https://img.shields.io/github/last-commit/hallow3316/spy-cam)
+
+
 # Spy-camara
 
 A modern video-call style UI for advanced camera monitoring. Built using HTML, CSS, and JavaScript.
