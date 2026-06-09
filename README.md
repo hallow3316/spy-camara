@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/badge/Discord-Chat-7289da?logo=discord)](https://discord.com/users/1450134275122003990)
+[[![Discord](https://img.shields.io/badge/Discord-Chat-7289da?logo=discord)](https://discord.com/users/1450134275122003990)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=netlify)](https://camaraxuniversal.netlify.app/)
 
 # Spy-camara
@@ -6,7 +6,7 @@
 A modern video-call style UI for advanced camera monitoring. Built using HTML, CSS, and JavaScript.
 
 ## Preview
-[Spy-Camera UI Preview][(https://i.imgur.com/your-image-id-here.png](https://camaraxuniversal.netlify.app/))
+![Spy-Camera UI Preview]([https://camaraxuniversal.netlify.app/](https://camaraxuniversal.netlify.app/))
 
 ## Features
 - Clean, responsive user interface.
@@ -37,4 +37,4 @@ I am open to partnerships and collaborations! Feel free to reach out via:
 - JavaScript
 
 ## License
-This project is open-source and available under the **MIT License**
+This project is open-source and available under the **MIT License**](https://camaraxuniversal.netlify.app/)
